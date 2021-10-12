@@ -1,0 +1,2 @@
+`define MAX_CORES 4
+`define DATA_ADDR_START 32'h4000_0000
